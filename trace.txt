@@ -1,0 +1,60 @@
+store 2899 1 01
+store 2098 1 02
+store 1897 1 03
+store 1096 1 04
+store 0895 1 05
+store 0094 1 06
+store 114f 1 07
+store 110e 1 08
+store 10cd 1 09
+store 108c 1 0a
+store 104b 1 0b
+store 100a 1 0c
+store 087f 1 0d
+store 0840 1 0e
+store 083f 1 0f
+store 0800 1 10
+store 007f 1 11
+store 0040 1 12
+store 003f 1 13
+store 0000 1 14
+load 0000 1
+load 003f 1
+load 0040 1
+load 007f 1
+load 0800 1
+load 083f 1
+load 0840 1
+load 087f 1
+load 0000 1
+load 003f 1
+load 0040 1
+load 007f 1
+load 0800 1
+load 083f 1
+load 0840 1
+load 087f 1
+load 100a 1
+load 104b 1
+load 108c 1
+load 10cd 1
+load 110e 1
+load 114f 1
+load 0094 1
+load 0895 1
+load 1096 1
+load 1897 1
+load 2098 1
+load 2899 1
+load 100a 1
+load 104b 1
+load 108c 1
+load 10cd 1
+load 110e 1
+load 114f 1
+load 0094 1
+load 0895 1
+load 1096 1
+load 1897 1
+load 2098 1
+load 2899 1
